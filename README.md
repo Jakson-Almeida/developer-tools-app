@@ -1,41 +1,41 @@
-# 🚀 Developer Tools Mobile App
+# Developer Tools Mobile App
 
 A comprehensive mobile application built with **Expo React Native** that provides essential developer tools in a single, convenient interface.
 
-## ✨ Features
+## Features
 
-### 🔍 Regex Tester
+### Regex Tester
 - Test regular expressions with real-time matching
 - Built-in examples for common patterns (email, phone, URL, date)
 - Visual feedback for valid/invalid patterns
 - Match highlighting and count display
 
-### 📄 JSON Formatter
+### JSON Formatter
 - Format and validate JSON data
 - Minify JSON for production use
 - Syntax error detection and reporting
 - Sample JSON examples for quick testing
 
-### 🌐 HTTP Client
+### HTTP Client
 - Test API endpoints with all HTTP methods (GET, POST, PUT, PATCH, DELETE)
 - Custom headers support
 - Request body input for POST/PUT requests
 - Response status, headers, and body display
 - Request timing measurement
 
-### 📚 Git Cheatsheet
+### Git Cheatsheet
 - Comprehensive Git command reference
 - Organized by categories (Getting Started, Basic Commands, Branching, etc.)
 - One-tap command copying
 - Pro tips and best practices
 
-### 💻 Code Snippets
+### Code Snippets
 - Save and organize code snippets
 - Categorize by language and purpose
 - Quick access to frequently used code
 - Syntax highlighting for better readability
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Expo React Native
 - **Language**: TypeScript
@@ -43,7 +43,7 @@ A comprehensive mobile application built with **Expo React Native** that provide
 - **UI**: React Native with custom theming
 - **Icons**: FontAwesome
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -74,7 +74,7 @@ A comprehensive mobile application built with **Expo React Native** that provide
    - Web: http://localhost:8080
    - Mobile: Scan QR code with Expo Go app
 
-## 📱 App Structure
+## App Structure
 
 ```
 app/
@@ -90,7 +90,7 @@ app/
 └── +html.tsx           # Web HTML configuration
 ```
 
-## 🎯 Use Cases
+## Use Cases
 
 ### For Developers
 - **Quick API Testing**: Test endpoints without leaving your mobile device
@@ -104,7 +104,7 @@ app/
 - **Reference Material**: Quick access to Git commands and code examples
 - **Portfolio Project**: Showcase mobile development skills
 
-## 🔧 Development
+## Development
 
 ### Adding New Features
 1. Create new screen in `app/(tabs)/`
@@ -122,7 +122,7 @@ npx expo build:android
 npx expo build:ios
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -130,17 +130,17 @@ npx expo build:ios
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## Author
 
 **Jakson Almeida**
 - Email: jakson.almeida@estudante.ufjf.br
 - GitHub: [@Jakson-Almeida](https://github.com/Jakson-Almeida)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Expo team for the amazing framework
 - React Native community for the ecosystem
@@ -148,4 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Star this repository if you find it helpful!**
+**Star this repository if you find it helpful!**
